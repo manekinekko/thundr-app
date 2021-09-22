@@ -97,7 +97,7 @@
             "statusCode": 301
         },
         {
-            "route": "/.auth/login/github",
+            "route": "/.auth/login/twitter",
             "statusCode": 404
         }
     ]
